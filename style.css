@@ -477,6 +477,7 @@ h3 {
         background: hsl(256, 26%, 20%) url(images/bg-pattern-intro-left-mobile.svg);
         background-repeat: no-repeat;
         background-position: left top;
+        height: max-content;
     }
 
     .heading span {
@@ -612,7 +613,7 @@ h3 {
         position: absolute;
         background: url(images/bg-pattern-intro-right-mobile.svg);
         background-repeat: no-repeat;
-        background-position: right top 50em;
+        background-position: right top 60em;
     }
 
     .heading {
